@@ -78,7 +78,7 @@ This project aims to analyze a dataset of **sales leads** and build a predictive
 
 3. Install the dependencies:
    ```bash
-   pipenv install pandas numpy matplotlib seaborn plotly nbformat scipy scikit-learn ipykernel
+   pip install -r requirements.txt
    ```
 4. Run the `lead_conversion_analysis.ipynb` notebook in a Jupyter environment.
 
